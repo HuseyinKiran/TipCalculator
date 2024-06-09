@@ -248,7 +248,7 @@ fun BillForm(
 
                             })
                     }
-                 }
+                }
 
                 Row(
                     modifier = Modifier.padding(horizontal = 3.dp)
